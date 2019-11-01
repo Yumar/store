@@ -1,5 +1,9 @@
 # store
 
+Hola Pedro,
+Ya complete el challenge de HackerRank, pero la ultima parte se me agoto el tiempo por que no note el reloj. Si sirve de algo te pegare la solucion en este correo.
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
